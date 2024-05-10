@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raketa_weblap", "raketa_weblap\raketa_weblap.csproj", "{F81B36B0-F162-4486-9D40-23CCB4A2983C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81B36B0-F162-4486-9D40-23CCB4A2983C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81B36B0-F162-4486-9D40-23CCB4A2983C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81B36B0-F162-4486-9D40-23CCB4A2983C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81B36B0-F162-4486-9D40-23CCB4A2983C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE069A0-AAF4-42D6-9432-59766134FA7B}
+	EndGlobalSection
+EndGlobal
